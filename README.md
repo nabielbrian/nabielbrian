@@ -2,7 +2,7 @@
 
 🎓 Industrial Engineering Student @ Universitas Indonesia (FTUI ‘23)  
 📊 Passionate about **Data Analytics, Machine Learning, and Business Intelligence**  
-🤖 Experienced in **NLP, Time-Series Forecasting, Data Visualization, and ETL Automation**  
+🤖 Experienced in **NLP, Regression & Classification Models, Clustering, Time-Series Forecasting, Data Visualization, and ETL Automation** 
 🌏 Based in Jakarta, Indonesia  
 
 [📧 Email](nabielbrian@gmail.com) | [💼 LinkedIn](www.linkedin.com/in/briannabiel) | 
